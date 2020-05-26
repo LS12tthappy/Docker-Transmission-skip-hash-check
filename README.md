@@ -6,7 +6,7 @@ https://hub.docker.com/r/ls12/transmission-skip-hash-check
 
 ## Docker image:
 
-`docker pull ls12/shadowsocks-privoxy`
+`docker pull ls12/transmission-skip-hash-check`
 
 The container can be run using the following command:
 
@@ -62,4 +62,4 @@ TRANSMISSION_WEB_HOME=                  /combustion-release/
                                         
 ```
 
-Thanks [transmission](https://github.com/transmission/transmission) and [linuxserver](https://github.com/linuxserver/docker-transmission)
+Thanks [transmission](https://github.com/transmission/transmission) and base image from [linuxserver](https://github.com/linuxserver/docker-transmission)
